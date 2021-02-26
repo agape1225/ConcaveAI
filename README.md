@@ -5,6 +5,7 @@
 - 사용기술
   - 알고리즘: brute force
   - STL
+  - UI: Windows.h를 활용한 CMD
 
 - 상세 설명은블로그에 있습니다.
   - 블로그 주소: https://apape1225.tistory.com/56?category=815520
